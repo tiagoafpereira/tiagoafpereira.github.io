@@ -4,8 +4,8 @@ backend:
   name: github
   repo: tiagoafpereira/tiagoafpereira.github.io
   branch: main
-  base_url: https://inductiva-decapcms-oauth.nfshost.com
-  auth_endpoint: /login/oauth/authorize
+  base_url: https://tiagoafpereira.github.io
+  # auth_endpoint: /login/oauth/authorize
 media_folder: 'assets/uploads'
 collections:
   - name: 'blog'
