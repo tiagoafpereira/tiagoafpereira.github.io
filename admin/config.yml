@@ -1,5 +1,7 @@
 # config.yml
 
+publish_mode: editorial_workflow
+
 backend:
   name: github
   repo: tiagoafpereira/tiagoafpereira.github.io
